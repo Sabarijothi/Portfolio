@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+#cv img {
+    width: 230px;
+}
+
+.social-icons a {
+    width: 40px;
+    height: 40px;
+}
+.row h5{
+    color:blue;
+}
+.col-lg-7 h3{
+    color:blue;
+}
+.col-12 h2{
+    color: blueviolet;
+    font-weight: 700;
+}
